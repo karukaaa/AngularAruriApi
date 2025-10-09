@@ -1,14 +1,19 @@
-[
-  {
-    "id": 1,
-    "title": "Sun ring"
-  },
-  {
-    "id": 2,
-    "title": "Moon ring"
-  },
-  {
-    "id": 3,
-    "title": "Star ring"
-  }
-]
+{
+  "rings": [
+    {
+      "id": 1,
+      "name": "Sun Ring",
+      "description": "A warm, golden ring inspired by the energy of the sun. Symbolizes vitality and confidence."
+    },
+    {
+      "id": 2,
+      "name": "Star Ring",
+      "description": "A delicate ring with a shimmering star design. Represents guidance and inner light."
+    },
+    {
+      "id": 3,
+      "name": "Moon Ring",
+      "description": "A silver ring shaped like a crescent moon. Symbol of calmness, intuition, and balance."
+    }
+  ]
+}
